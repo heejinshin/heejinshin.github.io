@@ -20,23 +20,14 @@ darkmode: false
 
 
 github_username:  heejinshin
-stackoverflow_username: "00000001"
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
+stackoverflow_username: "19754540"
 instagram_username: tam_anama
-# linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-orcid_username: 0000-0000-0000-0000
-googlescholar_username: D847cGsAAAAJ
 
 # Additional icon links
-additional_links:
-- title: Link name
-  icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
+# additional_links:
+# - title: Link name
+#   icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#   url: Link url (eg. https://google.com)
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -51,7 +42,7 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  # Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+    독학으로 21년도에 코딩을 처음 배우기 시작한 뒤로 꾸준한 호기심을 가지고 개발 공부를 하고 있습니다. 꾸준히 공부하는 것을 기록합니다. 비전공자로 아무것도 모르던 상태에서 시작했지만 공부를 하다보니 잘 하고 싶어지고, 욕심이 생기기 시작하여 꾸준히 성장하고 있습니다. 프로그래밍으로 할 수 있는 일이 너무나도 무궁무진하며 설레는 일이라고 생각합니다. 조금 허접하더라도 내가 만든 것을 시연하고 설명하는 것에 재미를 느낍니다. 
 
 
   You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
