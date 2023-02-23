@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: heejin Shin
-title: Backend 
+title: Backend
 email: heejinshin02@gmail.com
 # email_title: Email (Email title override)
 phone: 010-9550-2413
@@ -25,8 +25,8 @@ stackoverflow_username: "00000001"
 dribbble_username: jekyll
 facebook_username: jekyll
 flickr_username: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
+instagram_username: tam_anama
+# linkedin_username: jekyll
 xing_username: jekyll
 pinterest_username: jekyll
 youtube_username: jekyll
@@ -53,7 +53,7 @@ additional_links:
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
   # Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-  
+
 
   You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
     - Lists
