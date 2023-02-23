@@ -18,9 +18,8 @@ website: https://github.com/heejinshin
 # Dark Mode (true/false/never)
 darkmode: false
 
-# Social links
-twitter_username: jekyllrb
-github_username:  jekyll
+
+github_username:  heejinshin
 stackoverflow_username: "00000001"
 dribbble_username: jekyll
 facebook_username: jekyll
