@@ -38,7 +38,7 @@ about_title: About me title (Use this to override about section title)
 about_profile_image: _test/images/travis.png
 about_content: > # this means to ignore newlines until the next config item.
   끊임없는 질문을 통해 능동적으로 성장하는 개발자입니다. 하고싶은 것에 두려움없이 도전하길 즐기며 사람들과 활발한 소통으로 문제를 해결해나가는 것을 좋아합니다.
-    내가 원하는 것을 무엇이든 만들어낼 수 있다는 것에 매력을 느끼고 개발 공부를 지속하고 있어요. 조금 허접하더라도 직접 만든 것을 시연하고 설명하는 것에 재미를 느낍니다.    
+  내가 원하는 것을 무엇이든 만들어낼 수 있다는 것에 매력을 느끼고 개발 공부를 지속하고 있어요. 조금 허접하더라도 직접 만든 것을 시연하고 설명하는 것에 재미를 느낍니다.    
 
 # Projects Section
 projects_title: Projects title #(Use this to override about projects section title)
