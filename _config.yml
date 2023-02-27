@@ -84,7 +84,7 @@ content:
     layout: list
     content:
       - layout: left
-        title: 업무 경력 
+        title: 업무 경력사항 
         sub_title: 경영지원
          
 #         caption: 총무 / 세무 / 노무 
@@ -98,7 +98,7 @@ content:
     layout: list
     content:
       - layout: left
-        title: 관련 교육 이수사항 
+        title: 관련교육 이수사항 
 #         sub_title: 
          
 #         caption: 21.06 - 21.09
@@ -108,9 +108,9 @@ content:
           - 멀티캠퍼스 IOT 사물인터넷 개발자 양성과정 (21.06 - 21.09, 중도 하차)
           - KISA 블록체인 핀테크 아카데미 (22.09)
           - 코멘토 GoLang 실무 PT 애플리케이션 개발 (23.1)
-          - 파이썬, Django로 웹개발 프로젝트를 진행, signup, signin기능 및 게시판 기능을 개발하였습니다. 
-          - 가나슈를 활용하여 이더리움 네트워크를 통한 토큰 발행, NFT 및 지갑 연결 및 생성 기능을 구현하였습니다.
-          - gin 프레임워크와 Docker 를 활용하여 CRUD 구현, Postman을 활용한 웹 restapi 개발을 하였습니다. 
+               - 파이썬, Django로 웹개발 프로젝트를 진행, signup, signin기능 및 게시판 기능을 개발하였습니다. 
+               - 가나슈를 활용하여 이더리움 네트워크를 통한 토큰 발행, NFT 및 지갑 연결 및 생성 기능을 구현하였습니다.
+               - gin 프레임워크와 Docker 를 활용하여 CRUD 구현, Postman을 활용한 웹 restapi 개발을 하였습니다. 
 
 
 
