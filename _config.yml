@@ -45,10 +45,10 @@ about_profile_image: assets/profile.png
 about_content: | # this will include new lines to allow paragraphs
      하나의 프로젝트를 진행하며 오류를 해결하기 위해 약 두달간 70여개의 스택오버플로를 통한 질문을 통해 다양한 기능 구현을 해보았습니다. 저는 끝까지 해결을 위해 다양한 방법을 시도할 줄 아는 신입 개발자입니다. 
      이처럼 어려운 일을 마주해도 끝까지 포기하지 않고 결과물을 만들어낼 줄 아는 개발자가 되겠습니다. 
-    - 💁🏻‍♀️ Name: 신 희 진 
-    - 🏠 Adress: 서울시 용산구 
-    - 📱 Contact: 010-9550-2413 
-    - 📨 Email: mailto heejinshin02@gmail.com
+          - 💁🏻‍♀️ Name: 신 희 진 
+          - 🏠 Adress: 서울시 용산구 
+          - 📱 Contact: 010-9550-2413 
+          - 📨 Email: mailto heejinshin02@gmail.com
  
 
 content:
@@ -72,13 +72,13 @@ content:
 #           외부 api와 다양한 플러터 UI를 활용한 앱 프로젝트입니다. 
         description: | # this will include new lines to allow paragraphs
           주로 사용하는 기술 순으로 기재하였습니다. 
-          - Flutter: UI를 구현하는데 주로 쓰이는 위젯들을 자유자재로 활용할 수 있습니다. getX를 통한 상태관리를 알고 쓸 수 있습니다. 리팩토링이나 네이티브 연결을 위한 구현은 아직 어렵습니다.
-          - Docker: 도커를 활용하여 웹 서버 혹은 데이터베이스에 진입과 같은 기본적인 서버 통신 작업을 할 수 있습니다.
-          - Postgresql: Postgres 스키마의 설계와 기본 SQL문을 활용할 수 있습니다.
-          - Gin: Go언어로 웹 http 서버 기본 통신 로직 구현을 할 수 있습니다.
-          - Django, 부트스트랩: Python으로 웹개발 프로젝트를 진행 및 개발한 경험이 있습니다. 
-          - Selenium: Python으로 네이버 쇼핑 웹 크롤링 프로젝트를 진행하였습니다. 
-          - Arduino / RasberryPi: IoT 사물인터넷 개발 양성과정 교육을 통해 관련 프로젝트를 수행하였습니다. 
+               - Flutter: UI를 구현하는데 주로 쓰이는 위젯들을 자유자재로 활용할 수 있습니다. getX를 통한 상태관리를 알고 쓸 수 있습니다. 리팩토링이나 네이티브 연결을 위한 구현은 아직 어렵습니다.
+               - Docker: 도커를 활용하여 웹 서버 혹은 데이터베이스에 진입과 같은 기본적인 서버 통신 작업을 할 수 있습니다.
+               - Postgresql: Postgres 스키마의 설계와 기본 SQL문을 활용할 수 있습니다.
+               - Gin: Go언어로 웹 http 서버 기본 통신 로직 구현을 할 수 있습니다.
+               - Django, 부트스트랩: Python으로 웹개발 프로젝트를 진행 및 개발한 경험이 있습니다. 
+               - Selenium: Python으로 네이버 쇼핑 웹 크롤링 프로젝트를 진행하였습니다. 
+               - Arduino / RasberryPi: IoT 사물인터넷 개발 양성과정 교육을 통해 관련 프로젝트를 수행하였습니다. 
           
   - title: Experience
     layout: list
@@ -91,9 +91,10 @@ content:
 #         quote: > 
            
         description: | # this will include new lines to allow paragraphs
-          - (주)조선내화이엔지_구매(17.03 - 18.04)
-          - (주)코스모스이펙트_경영지원(21.09 - 22.05)
           스타트업에서 약 9개월간 근무한 경험이 있습니다. 경영지원 부서의 전반에 걸쳐 근무한 경험으로 회사 내/외부에서 활발한 커뮤니케이션을 하며 업무를 진행하였습니다. 
+               - (주)조선내화이엔지_구매(17.03 - 18.04)
+               - (주)코스모스이펙트_경영지원(21.09 - 22.05)
+          
   - title: Education
     layout: list
     content:
