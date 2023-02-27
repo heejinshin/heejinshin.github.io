@@ -16,8 +16,8 @@ phone: 010-9550-2413
 website: https://github.com/heejinshin
 # website_title: Web (Website title override)
 
-# Dark Mode (true/false/never)
-darkmode: false
+# Mode (true/false/never)
+mode: false
 
 
 github_username:  heejinshin
