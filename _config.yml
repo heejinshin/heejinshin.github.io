@@ -85,7 +85,7 @@ content:
     content:
       - layout: left
         title: 업무 경력 
-        sub_title: |
+        sub_title: 
          - 멀티캠퍼스 IOT 사물인터넷 개발자 양성과정 (21.06 - 21.09, 중도 하차)
          - KISA 블록체인 핀테크 아카데미 (22.09)
          - 코멘토 GoLang 실무 PT 애플리케이션 개발 (23.1)
@@ -99,7 +99,7 @@ content:
     content:
       - layout: left
         title: 교육 수료
-        sub_title: |
+        sub_title: 
          - 멀티캠퍼스 IOT 사물인터넷 개발자 양성과정 (21.06 - 21.09, 중도 하차)
          - KISA 블록체인 핀테크 아카데미 (22.09)
          - 코멘토 GoLang 실무 PT 애플리케이션 개발 (23.1)
