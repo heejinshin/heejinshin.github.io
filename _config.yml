@@ -48,7 +48,7 @@ about_content: | # this will include new lines to allow paragraphs
       - 💁🏻‍♀️ Name: 신 희 진 
       - 🏠 Adress: 서울시 용산구 
       - 📱 Contact: 010-9550-2413 
-      - 📨 Email: mailto heejinshin02@gmail.com
+      - 📨 Email: heejinshin02@gmail.com
  
 
 content:
@@ -72,7 +72,7 @@ content:
 #           외부 api와 다양한 플러터 UI를 활용한 앱 프로젝트입니다. 
         description: | # this will include new lines to allow paragraphs
           주로 사용하는 기술 순으로 기재하였습니다. 
-           - Flutter: UI를 구현하는데 주로 쓰이는 위젯들을 자유자재로 활용할 수 있습니다. getX를 통한 상태관리를 알고 쓸 수 있습니다. 리팩토링이나 네이티브 연결을 위한 구현은 아직 어렵습니다.
+           - Flutter: UI를 구현하는데 주로 쓰이는 위젯들을 자유자재로 활용할 수 있습니다. getX를 통한 상태관리를 이해하며 활용할 수 있습니다. 리팩토링이나 네이티브 연결을 위한 구현은 아직 어렵습니다.
            - Docker: 도커를 활용하여 웹 서버 혹은 데이터베이스에 진입과 같은 기본적인 서버 통신 작업을 할 수 있습니다.
            - Postgresql: Postgres 스키마의 설계와 기본 SQL문을 활용할 수 있습니다.
            - Gin: Go언어로 웹 http 서버 기본 통신 로직 구현을 할 수 있습니다.
@@ -93,7 +93,7 @@ content:
            
         description: | # this will include new lines to allow paragraphs
          
-          스타트업에서 약 9개월간 근무한 경험이 있습니다. 경영지원 부서의 전반에 걸쳐 근무한 경험으로 회사 내/외부에서 활발한 커뮤니케이션을 하며 업무를 진행하였습니다. 
+          스타트업에서 약 9개월간 근무한 경험이 있습니다. 경영지원 부서의 전반에 걸쳐 근무한 경험으로 회사 내/외부에서 활발한 커뮤니케이션을 하며 업무를 수행하는 능력을 갖추었습니다. 
            - (주)조선내화이엔지_구매(17.03 - 18.04)
            - (주)코스모스이펙트_경영지원(21.09 - 22.05)
         
@@ -111,10 +111,10 @@ content:
         description: | # this will include new lines to allow paragraphs
           - 멀티캠퍼스 IOT 사물인터넷 개발자 양성과정 (21.06 - 21.09, 중도 하차)
           - KISA 블록체인 핀테크 아카데미 (22.09)
-          - 코멘토 GoLang 실무 PT 애플리케이션 개발 (23.1)
+          - 코멘토 GoLang 실무 PT 애플리케이션 개발 (23.01)
                - 파이썬, Django로 웹개발 프로젝트를 진행, signup, signin기능 및 게시판 기능을 개발하였습니다. 
-               - 가나슈를 활용하여 이더리움 네트워크를 통한 토큰 발행, NFT 및 지갑 연결 및 생성 기능을 구현하였습니다.
-               - gin 프레임워크와 Docker 를 활용하여 CRUD 구현, Postman을 활용한 웹 restapi 개발을 하였습니다. 
+               - 가나슈를 활용하여 이더리움 네트워크를 통한 토큰 발행, NFT 발행 및 지갑 연결 기능을 구현하였습니다.
+               - gin 프레임워크와 Docker 를 활용하여 CRUD 구현, Postman을 활용한 웹 서버 restapi 개발을 하였습니다. 
 
 
 
