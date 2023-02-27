@@ -9,11 +9,8 @@ locale: "ko-KR"
 name: heejin Shin
 title: Backend
 title_separator: "|"
-email: heejinshin02@gmail.com
 # email_title: Email (Email title override)
-phone: 010-9550-2413
 # phone_title: Phone (Phone title override)
-website: https://github.com/heejinshin
 # website_title: Web (Website title override)
 
 # Mode (true/false/never)
@@ -51,31 +48,33 @@ about_content: | # this will include new lines to allow paragraphs
     
     - 💁🏻‍♀️ Name: 신 희 진 
     - 🏠 Adress: 서울시 용산구 
-    - 📱 Phone: 010-9550-2413 
-    - 📨 Emal: heejinshin02@gmail.com
+    - 📱 Contact: 010-9550-2413 
+    - 📨 Email: heejinshin02@gmail.com
  
 
 content:
-  - title: Projects # Title for the section
+  - title: Skills # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
         # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: My-Data
-        link: github.com/heejinshin/My-Data
+        title: 사용가능한 기술 스택
+        link: 
       
         additional_links:
           - title: sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: sproogen.github.io/modern-resume-theme
+#             icon: 
+#             url: sproogen.github.io/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
             # icon: fab fa-github
             # url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          외부 api와 다양한 플러터 UI를 활용한 앱 프로젝트입니다. 
+          사용해보았거나 사용중인 기술 목록입니다.  
         description: | # this will include new lines to allow paragraphs
-          프로젝트 기획 및 개발,배포 전반을 진행하였습니다. 
+          주로 사용하는 기술 순으로 기재하였습니다. 
+          - title: Flutter
+            icon: fab fa-flutter
   - title: Experience
     layout: list
     content:
