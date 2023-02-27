@@ -21,7 +21,7 @@ darkmode: false
 
 
 github_username:  heejinshin
-stackoverflow_username: Uranus_ly
+stackoverflow_username: "19754540"
 instagram_username: tam_anama
 
 # Additional icon links
@@ -48,7 +48,7 @@ about_content: | # this will include new lines to allow paragraphs
     - 💁🏻‍♀️ Name: 신 희 진 
     - 🏠 Adress: 서울시 용산구 
     - 📱 Contact: 010-9550-2413 
-    - 📨 Email: heejinshin02@gmail.com
+    - 📨 Email: mailto heejinshin02@gmail.com
  
 
 content:
@@ -108,9 +108,9 @@ content:
           - 멀티캠퍼스 IOT 사물인터넷 개발자 양성과정 (21.06 - 21.09, 중도 하차)
           - KISA 블록체인 핀테크 아카데미 (22.09)
           - 코멘토 GoLang 실무 PT 애플리케이션 개발 (23.1)
-               - 파이썬, Django로 웹개발 프로젝트를 진행, signup, signin기능 및 게시판 기능을 개발하였습니다. 
-               - 가나슈를 활용하여 이더리움 네트워크를 통한 토큰 발행, NFT 및 지갑 연결 및 생성 기능을 구현하였습니다.
-               - gin 프레임워크와 Docker 를 활용하여 CRUD 구현, Postman을 활용한 웹 restapi 개발을 하였습니다. 
+          - 파이썬, Django로 웹개발 프로젝트를 진행, signup, signin기능 및 게시판 기능을 개발하였습니다. 
+          - 가나슈를 활용하여 이더리움 네트워크를 통한 토큰 발행, NFT 및 지갑 연결 및 생성 기능을 구현하였습니다.
+          - gin 프레임워크와 Docker 를 활용하여 CRUD 구현, Postman을 활용한 웹 restapi 개발을 하였습니다. 
 
 
 
@@ -122,6 +122,8 @@ footer_show_references: true
 # theme: modern-resume-theme (Use this is you are hosting your resume yourself)
 # remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
 
+remote_theme: sproogen/resume-theme
+
 sass:
   sass_dir: _sass
   style: compressed
@@ -129,15 +131,3 @@ sass:
 plugins:
  - jekyll-seo-tag
 
-exclude : [
-  "Gemfile",
-  "Gemfile.lock",
-  "node_modules",
-  "vendor/bundle/",
-  "vendor/cache/",
-  "vendor/gems/",
-  "vendor/ruby/",
-  "lib/",
-  "scripts/",
-  "docker-compose.yml",
-  ]
