@@ -52,7 +52,7 @@ about_content: | # this will include new lines to allow paragraphs
  
 
 content:
-  - title: Skills # Title for the section
+  - title:  # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -80,23 +80,25 @@ content:
                - Selenium: Python으로 네이버 쇼핑 웹 크롤링 프로젝트를 진행하였습니다. 
                - Arduino / RasberryPi: IoT 사물인터넷 개발 양성과정 교육을 통해 관련 프로젝트를 수행하였습니다. 
           
-  - title: Experience
+  - title: 
     layout: list
     content:
       - layout: left
         title: 업무 경력사항 
-        sub_title: |
-         - (주)조선내화이엔지_구매(17.03 - 18.04)
-         - (주)코스모스이펙트_경영지원(21.09 - 22.05)
+        sub_title: 
+         
          
 #         caption: 총무 / 세무 / 노무 
 #         quote: > 
            
         description: | # this will include new lines to allow paragraphs
+         
           스타트업에서 약 9개월간 근무한 경험이 있습니다. 경영지원 부서의 전반에 걸쳐 근무한 경험으로 회사 내/외부에서 활발한 커뮤니케이션을 하며 업무를 진행하였습니다. 
+           - (주)조선내화이엔지_구매(17.03 - 18.04)
+           - (주)코스모스이펙트_경영지원(21.09 - 22.05)
         
           
-  - title: Education
+  - title: 
     layout: list
     content:
       - layout: left
