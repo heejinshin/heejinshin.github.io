@@ -56,21 +56,10 @@ content:
   - title: Skills # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
+      - layout: left
         # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         sub_title: 사용가능한 기술 스택
-        link: 
-      
-        additional_links:
-          - title: sproogen/modern-resume-theme
-#             icon: 
-#             url: sproogen.github.io/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            # icon: fab fa-github
-            # url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          사용해보았거나 사용중인 기술 목록입니다.  
         description: | # this will include new lines to allow paragraphs
           주로 사용하는 기술 순으로 기재하였습니다. 
           - Flutter: UI를 구현하는데 주로 쓰이는 위젯들을 자유자재로 활용할 수 있습니다. getX를 통한 상태관리를 알고 쓸 수 있습니다. 리팩토링이나 네이티브 연결을 위한 구현은 아직 어렵습니다.
@@ -81,7 +70,6 @@ content:
           - Selenium: Python으로 네이버 쇼핑 웹 크롤링 프로젝트를 진행하였습니다. 
           - Arduino / RasberryPi: IoT 사물인터넷 개발 양성과정 교육을 통해 관련 프로젝트를 수행하였습니다. 
           
-          
   - title: Experience
     layout: list
     content:
@@ -89,10 +77,9 @@ content:
         title: 업무 경력 
         sub_title: 경영지원 
         caption: 총무 / 세무 / 노무 
-        quote: > 
-           
         description: | # this will include new lines to allow paragraphs
           스타트업에서 경영지원 포지션으로 약 10개월간 근무한 경험이 있습니다. 
+          
   - title: Education
     layout: list
     content:
@@ -109,8 +96,6 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
        
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests 좋아하
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
 
 # Footer
 footer_show_references: true
