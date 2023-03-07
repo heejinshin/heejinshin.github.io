@@ -100,6 +100,24 @@ content:
                - 가나슈를 활용하여 이더리움 네트워크를 통한 토큰 발행, NFT 발행 및 지갑 연결 기능을 구현하였습니다.
                - gin 프레임워크와 Docker 를 활용하여 CRUD 구현, Postman을 활용한 웹 서버 restapi 개발을 하였습니다. 
                
+    - title: 
+    layout: 
+    content:
+      - layout: left
+        title: 포트폴리오  
+            additional_links:
+#           - title: sproogen/modern-resume-theme
+#             icon: fab fa-github
+#             url: sproogen.github.io/modern-resume-theme
+#           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#             # icon: fab fa-github
+            url: https://github.com/heejinshin/local_dust-
+ 
+        description: | # this will include new lines to allow paragraphs
+          - 외부 api를 활용하여 실시간 데이터를 보여주는 플러터앱입니다. 
+         
+               
+               
   - title: 
     layout: list
     content:
