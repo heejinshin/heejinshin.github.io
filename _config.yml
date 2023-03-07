@@ -105,16 +105,10 @@ content:
     content:
       - layout: left
         title: 포트폴리오  
-            additional_links:
-#           - title: sproogen/modern-resume-theme
-#             icon: fab fa-github
-#             url: sproogen.github.io/modern-resume-theme
-#           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-#             # icon: fab fa-github
-            url: https://github.com/heejinshin/local_dust-
+           
  
         description: | # this will include new lines to allow paragraphs
-          - 외부 api를 활용하여 실시간 데이터를 보여주는 플러터앱입니다. 
+          - 외부 api를 활용하여 실시간 데이터를 보여주는 플러터앱입니다. (https://github.com/heejinshin/local_dust-)
          
                
                
