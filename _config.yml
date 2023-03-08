@@ -1,158 +1,315 @@
+# 
+#개발/취업/이력서 
 # Site
+
 repository: sproogen/resume-theme
+
 # favicon: Directory of your favic (eg. images/favicon.ico)(optional)
 
+
+
 # Content configuration version
+
 version: 2
-locale: "ko-KR"
+
+locale: “ko-KR”
+
 # Personal info
+
 name: heejin Shin
+
 title: 신입 개발자 신희진입니다. 
-title_separator: "|"
+
+title_separator: “|”
+
 # email: heejinshin02@gmail.com
+
 # email_title: Email (Email title override)
+
 # phone: 010-9550-2413
+
 # phone_title: Phone (Phone title override)
+
 # website: https://github.com/heejinshin
+
 # website_title: Web (Website title override)
 
+
+
 # Dark Mode (true/false/never)
+
 darkmode: false
 
 
+
+
+
 github_username:  heejinshin
-stackoverflow_username: "19754540"
+
+stackoverflow_username: “19754540”
+
 instagram_username: tam_anama
 
+
+
 # Additional icon links
+
 # additional_links:
+
 # - title: Link name
+
 #   icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+
 #   url: Link url (eg. https://google.com)
+
 # - title: another link
+
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+
 #   url: Link url (eg. https://google.com)
+
+
 
 # Google Analytics and Tag Manager
+
 # Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
+
+# gtm: “GTM-0000000”
+
+# gtag: “UA-00000000-0”
+
+# google_analytics: “UA-00000000-0”
+
+
 
 # About Section
+
 # about_title: About Me (Use this to override about section title)
+
 about_profile_image: assets/profile.png
+
 about_content: | # this will include new lines to allow paragraphs
+
       도전을 즐기는 개발자 신희진입니다. 프로그래밍을 통해 만들 수 있는 것이 무궁무진하다는 점에 매력을 느끼고 꾸준히 실력을 키우기 위해 노력합니다. 첫 번째, 문제 해결을 위해 끈질기게 노력합니다. 혼자서 프로젝트를 진행하며 마주한 오류들을 해결하기 위해 약 두 달간 스택오버플로를 통한 70여개의 질문과 구글링은 물론 선배 개발자분들께 조언을 얻는 등 집요한 노력 끝에 기능 구현에 성공하였습니다. 두 번째, 하루하루 성장을 위해 노력합니다. 개발일기를 3개월동안 꾸준히 쓰고있습니다. 매일 공부를 마치고 기록을 통해 부족한 점, 개선할 점을 스스로 찾아 성장하였습니다.이처럼 저는 문제 해결을 위해 다양한 방법을 시도하고 스스로를 끊임없이 성장시켜 결국에는 해결해내는 도전정신이 있는 신입 개발자입니다. 앞으로 입사 후에도 의미 있는 결과물을 만들어 내는 개발자가 되겠습니다.
+
       - 💁🏻‍♀️ Name: 신 희 진 
+
       - 🏠 Adress: 서울시 용산구 
+
       - 📱 Contact: 010-9550-2413 
+
       - 📨 Email: heejinshin02@gmail.com
+
  
 
+
+
 content:
+
   - title:  # Title for the section
+
     layout: list # Type of content section (list/text)
+
     content:
+
       - layout: left
+
         # Value of `weak` will display a weak border below this item. # Any 
+
                       # other value (or no value) means no border will be displayed
+
         title: 사용가능한 기술 스택
+
 #         link: github.com/heejinshin/My-Data
+
       
+
 #         additional_links:
+
 #           - title: sproogen/modern-resume-theme
+
 #             icon: fab fa-github
+
 #             url: sproogen.github.io/modern-resume-theme
+
 #           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+
 #             # icon: fab fa-github
+
 #             # url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+
 #         quote: >
+
 #           외부 api와 다양한 플러터 UI를 활용한 앱 프로젝트입니다. 
+
         description: | # this will include new lines to allow paragraphs
+
           주로 사용하는 기술 순으로 기재하였습니다. 
+
            - Flutter: UI를 구현하는데 주로 쓰이는 위젯들을 자유자재로 활용할 수 있습니다. http 서버 통신 및 외부 api활용 작업을 할 수 있습니다. 
+
            - Docker: 도커를 활용하여 웹 서버 혹은 데이터베이스에 진입과 같은 기본적인 서버 통신 작업을 할 수 있습니다.
+
            - Postgresql: Postgres 스키마의 설계와 기본 SQL문을 활용할 수 있습니다.
+
            - Gin: Go언어로 웹 http 서버 기본 통신 로직 구현을 할 수 있습니다.
+
            - Django, 부트스트랩: Python으로 웹개발 프로젝트를 진행 및 개발한 경험이 있습니다. 
+
            - Selenium: Python으로 네이버 쇼핑 웹 크롤링 프로젝트를 진행하였습니다. 
+
            - Arduino / RasberryPi: IoT 사물인터넷 개발 양성과정 교육을 통해 관련 프로젝트를 수행하였습니다. 
+
           
+
   - title: 
+
     layout: list
+
     content:
+
       - layout: left
+
         title: 포트폴리오  
+
            
+
  
+
         description: | # this will include new lines to allow paragraphs
+
           - 외부 api를 활용하여 실시간 데이터를 보여주는 플러터앱입니다. 
+
         
+
           
+
   - title: 
+
     layout: list
+
     content:
+
       - layout: left
+
         title: 관련교육 이수사항 
+
 #         sub_title: 
+
          
+
 #         caption: 21.06 - 21.09
+
 #         quote: >
+
  
+
         description: | # this will include new lines to allow paragraphs
+
           - 멀티캠퍼스 IOT 사물인터넷 개발자 양성과정 (21.06 - 21.09, 중도 하차)
+
           - KISA 블록체인 핀테크 아카데미 (22.09)
+
           - 코멘토 GoLang 실무 PT 애플리케이션 개발 (23.01)
+
                - 파이썬, Django로 웹개발 프로젝트를 진행, MVC패턴을 사용하여 웹페이지를 개발하였습니다.  
+
                - 가나슈를 활용하여 이더리움 네트워크를 통한 토큰 발행, NFT 발행 및 지갑 연결 기능을 구현하였습니다.
+
                - gin 프레임워크와 Docker 를 활용하여 CRUD 구현, Postman을 활용한 웹 서버 restapi 개발을 하였습니다. 
+
                
+
     - title: 
+
     layout: list
+
     content:
+
       - layout: left
+
         title: 포트폴리오  
+
            
+
  
+
         description: | # this will include new lines to allow paragraphs
+
           - 외부 api를 활용하여 실시간 데이터를 보여주는 플러터앱입니다. 
+
          
+
                
+
                
+
   - title: 
+
     layout: list
+
     content:
+
       - layout: left
+
         title: 업무 경력사항 
+
         sub_title: 
+
          
+
          
+
 #         caption: 총무 / 세무 / 노무 
+
 #         quote: > 
+
            
+
         description: | # this will include new lines to allow paragraphs
+
          
+
           스타트업에서 약 9개월간 근무한 경험이 있습니다. 경영지원 부서의 전반에 걸쳐 약 2년간 근무한 경험으로 회사 내/외부에서 활발한 커뮤니케이션을 하며 업무를 수행하는 능력을 갖추었습니다. 
+
            - (주)조선내화이엔지_구매(17.03 - 18.04)
+
            - (주)코스모스이펙트_경영지원(21.09 - 22.05)
 
 
 
+
+
+
+
 # Footer
+
 footer_show_references: true
+
 # references_title: References on request (Override references text)
 
+
+
 # Build settings
+
 # theme: modern-resume-theme (Use this is you are hosting your resume yourself)
+
 # remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
+
+
 
 remote_theme: sproogen/resume-theme
 
+
+
 sass:
+
   sass_dir: _sass
+
   style: compressed
 
-plugins:
- - jekyll-seo-tag
 
+
+plugins:
+
+ - jekyll-seo-tag
